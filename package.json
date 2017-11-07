@@ -1,0 +1,23 @@
+{
+  "name": "deloreanbot",
+  "version": "1.0.0",
+  "description": "When this baby hits 88mph...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceelai/dlbot.git"
+  },
+  "author": "Calvin L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ceelai/dlbot/issues"
+  },
+  "homepage": "https://github.com/Ceelai/dlbot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.4"
+  }
+}
